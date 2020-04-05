@@ -1,5 +1,5 @@
 {
-  "name": "xftts",
+  "name": "@tyrchen/xftts",
   "version": "0.1.0",
   "description": "Xunfei tts websocket interface",
   "repository": {
