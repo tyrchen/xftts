@@ -2,6 +2,17 @@
   "name": "xftts",
   "version": "0.1.0",
   "description": "Xunfei tts websocket interface",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyrchen/xftts.git"
+  },
+  "keywords": [
+    "tts"
+  ],
+  "bugs": {
+    "url": "https://github.com/tyrchen/xftts/issues"
+  },
+  "homepage": "https://github.com/tyrchen/xftts#readme",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +22,6 @@
   "dependencies": {
     "crypto-js": "^4.0.0",
     "websocket": "^1.0.31"
-  }
+  },
+  "devDependencies": {}
 }
